@@ -26,12 +26,12 @@
 <!--header start-->
 
 <header>
-    <a href="#" class="logo"><i class="fas fa-tree"></i>Luka Prćić portfolio website</a>
+    <a href="main.php" class="logo"><i class="fas fa-tree"></i>Luka Prćić portfolio website</a>
     <nav class="navbar">
         <a class="active" href="main.php">home</a>
-        <a href="dishes.php">dishes</a>
+        <a href="dishes.php">Ocene</a>
         <a href="#about">about</a>
-        <a href="#menu">menu</a>
+        <a href="menu.php">menu</a>
         <a href="#review">review</a>
     </nav>
 

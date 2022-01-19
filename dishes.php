@@ -3,8 +3,8 @@
 
 <section class="dishes" id="dishes">
 
-    <h3 class="sub-heading">our dishes</h3>
-    <h1 class="heading">popular dishes</h1>
+    <h3 class="sub-heading">Ocene</h3>
+    <h1 class="heading">Prva i druga godina</h1>
 
     <div class="box-container">
 
@@ -77,6 +77,78 @@
 
         <div class="box-container">
             <div class="box">
+
+                <table>
+                    <tr>
+                        <th class="kolona" >Semestar</th>
+                        <th class="kolona">Naziv predmeta</th>
+                        <th class="kolona">Ocena</th>
+                        <th class="kolona">Br ESP bodova</th>
+                    </tr>
+                    <tr>
+                        <td class="kolona">Treći</td>
+                        <td class="kolona">Mikrokontroleri</td>
+                        <td class="kolona">0</td>
+                        <td class="kolona">6</td>
+                    </tr>
+
+                    <tr>
+                        <td class="kolona">Treći</td>
+                        <td class="kolona">Objektno orijentisano programiranje</td>
+                        <td class="kolona">7</td>
+                        <td class="kolona">6</td>
+                    </tr>
+                    <tr>
+                        <td class="kolona">Treći</td>
+                        <td class="kolona">Baze podataka</td>
+                        <td class="kolona"></td>
+                        <td class="kolona">6</td>
+                    </tr>
+                    <tr>
+                        <td class="kolona">Treći</td>
+                        <td class="kolona">Internet tehnologije</td>
+                        <td class="kolona">10</td>
+                        <td class="kolona">6</td>
+                    </tr>
+                    <tr>
+                        <td class="kolona">Treći</td>
+                        <td class="kolona">Softversko inženjerstvo</td>
+                        <td class="kolona">8</td>
+                        <td class="kolona">6</td>
+                    </tr>
+                    <tr>
+                        <td class="kolona">Četvrti</td>
+                        <td class="kolona">Osnovi ekonomije</td>
+                        <td class="kolona"></td>
+                        <td class="kolona">6</td>
+                    </tr>
+                    <tr>
+                        <td class="kolona">Četvrti</td>
+                        <td class="kolona">Veb programiranje</td>
+                        <td class="kolona"></td>
+                        <td class="kolona">6</td>
+                    </tr>
+                    <tr>
+                        <td class="kolona">Četvrti</td>
+                        <td class="kolona">Multimedijski sistemi</td>
+                        <td class="kolona"></td>
+                        <td class="kolona">6</td>
+                    </tr>
+                    <tr>
+                        <td class="kolona">Četvrti</td>
+                        <td class="kolona">Programiranje mobilnih uređaja</td>
+                        <td class="kolona"></td>
+                        <td class="kolona">6</td>
+                    </tr>
+
+                    <tr>
+                        <td class="kolona">Četvrti</td>
+                        <td class="kolona">Računarske mreže	</td>
+                        <td class="kolona"></td>
+                        <td class="kolona">6</td>
+                    </tr>
+
+                </table>
 
             </div>
 

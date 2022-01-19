@@ -1,4 +1,5 @@
 <!-- about sekcija start-->
+<!-- linkovi-->
 <section class="about" id="about">
 
     <h3 class="sub-heading"> about us </h3>

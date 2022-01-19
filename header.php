@@ -28,7 +28,7 @@
 <header>
     <a href="#" class="logo"><i class="fas fa-tree"></i>Luka Prćić portfolio website</a>
     <nav class="navbar">
-        <a class="active" href="#home">home</a>
+        <a class="active" href="main.php">home</a>
         <a href="dishes.php">dishes</a>
         <a href="#about">about</a>
         <a href="#menu">menu</a>
@@ -38,8 +38,7 @@
     <div class="icons">
         <i class="fas fa-bars" id="menu-bars"></i>
         <i class="fas fa-search" id="search-icon"></i>
-        <a href="#" class="fas fa-heart"></a><!--fas fa-bars selektuje ikonicu za srce iz font-awesome drugi isto rade -->
-        <a href="#" class="fas fa-shopping-cart"></a>
+        <?php echo $date = date('Y-m-d H:i:s'); ?>
 
 
     </div>

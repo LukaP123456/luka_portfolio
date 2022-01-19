@@ -9,109 +9,83 @@
     <div class="box-container">
 
         <div class="box">
-            <a href="#" class="fas fa-heart"></a><!--vrv cu izbrisati ovo -->
-            <a href="#" class="fas fa-eye"></a>
-            <img src="img/kafa.jpg" alt="KAFA">
-            <h3>tasty food</h3>
-            <div class="stars">
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star-half-alt"></i>
-            </div>
-            <span>$15.99</span>
-            <a href="#" class="btn">add to cart</a>
+            <table>
+                <tr>
+                    <th class="kolona" >Semestar</th>
+                    <th class="kolona">Naziv predmeta</th>
+                    <th class="kolona">Ocena</th>
+                    <th class="kolona">Br ESP bodova</th>
+                </tr>
+                <tr>
+                    <td class="kolona">Prvi</td>
+                    <td class="kolona">Matematika 1</td>
+                    <td class="kolona">9</td>
+                    <td class="kolona">6</td>
+                </tr>
+
+                <tr>
+                    <td class="kolona">Prvi</td>
+                    <td class="kolona">Uvod u računarstvo	</td>
+                    <td class="kolona">7</td>
+                    <td class="kolona">6</td>
+                </tr>
+                <tr>
+                    <td class="kolona">Prvi</td>
+                    <td class="kolona">Aplikativni softver	</td>
+                    <td class="kolona">10</td>
+                    <td class="kolona">6</td>
+                </tr>
+                <tr>
+                    <td class="kolona">Prvi</td>
+                    <td class="kolona">Marketing i PR	</td>
+                    <td class="kolona">10</td>
+                    <td class="kolona">6</td>
+                </tr>
+                <tr>
+                    <td class="kolona">Drugi</td>
+                    <td class="kolona">Matematika 2</td>
+                    <td class="kolona">8</td>
+                    <td class="kolona">6</td>
+                </tr>
+                <tr>
+                    <td class="kolona">Drugi</td>
+                    <td class="kolona">Engleski jezik	</td>
+                    <td class="kolona">10</td>
+                    <td class="kolona">6</td>
+                </tr>
+                <tr>
+                    <td class="kolona">Drugi</td>
+                    <td class="kolona">Digitalna tehnika</td>
+                    <td class="kolona">9</td>
+                    <td class="kolona">6</td>
+                </tr>
+                <tr>
+                    <td class="kolona">Drugi</td>
+                    <td class="kolona">Algoritmi i strukture podataka</td>
+                    <td class="kolona">6</td>
+                    <td class="kolona">6</td>
+                </tr>
+                <tr>
+                    <td class="kolona">Drugi</td>
+                    <td class="kolona">Operativni sistemi</td>
+                    <td class="kolona">8</td>
+                    <td class="kolona">6</td>
+                </tr>
+
+            </table>
         </div>
 
-        <div class="box">
-            <a href="#" class="fas fa-heart"></a>
-            <a href="#" class="fas fa-eye"></a>
-            <img src="img/kafa.jpg" alt="KAFA">
-            <h3>tasty food</h3>
-            <div class="stars">
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star-half-alt"></i>
-            </div>
-            <span>$15.99</span>
-            <a href="#" class="btn">add to cart</a>
-        </div>
+        <div class="box-container">
+            <div class="box">
 
-        <div class="box">
-            <a href="#" class="fas fa-heart"></a>
-            <a href="#" class="fas fa-eye"></a>
-            <img src="img/kafa.jpg" alt="KAFA">
-            <h3>tasty food</h3>
-            <div class="stars">
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star-half-alt"></i>
             </div>
-            <span>$15.99</span>
-            <a href="#" class="btn">add to cart</a>
-        </div>
 
-        <div class="box">
-            <a href="#" class="fas fa-heart"></a>
-            <a href="#" class="fas fa-eye"></a>
-            <img src="img/kafa.jpg" alt="KAFA">
-            <h3>tasty food</h3>
-            <div class="stars">
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star-half-alt"></i>
-            </div>
-            <span>$15.99</span>
-            <a href="#" class="btn">add to cart</a>
         </div>
-        <!--predzadnji box -->
-
-        <div class="box">
-            <a href="#" class="fas fa-heart"></a>
-            <a href="#" class="fas fa-eye"></a>
-            <img src="img/kafa.jpg" alt="KAFA">
-            <h3>tasty food</h3>
-            <div class="stars">
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star-half-alt"></i>
-            </div>
-            <span>$15.99</span>
-            <a href="#" class="btn">add to cart</a>
-        </div>
-
-        <!--zadnji box-->
-        <div class="box">
-            <a href="#" class="fas fa-heart"></a>
-            <a href="#" class="fas fa-eye"></a>
-            <img src="img/kafa.jpg" alt="KAFA">
-            <h3>tasty food</h3>
-            <div class="stars">
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star-half-alt"></i>
-            </div>
-            <span>$15.99</span>
-            <a href="#" class="btn">add to cart</a>
-        </div>
-
 
 </section>
+
+
+
+
+
 <!-- dishes sekcija kraj -->

@@ -22,7 +22,7 @@
 
                         </div>
                         <div class="image">
-                            <img src="img/bukv_ja.jpg" >
+                            <img src="img/bukv_ja.jpg">
                         </div>
 
                     </div>
@@ -32,7 +32,7 @@
                     <div class="slide">
                         <div class="content">
                             <span> Prethodno obrazovanje</span>
-                            <h3>Osnovna i srednja škola</h3>
+                            <h3>Osnovna, srednja škola i fakultet</h3>
                             <p>Od prvog do trećeg razreda sam išao u Osnovnu školu 	„ Ivan Milutinović”, zatim sam u četrvtom prešau u Osvnonu školu „Matko Vuković”. Nakon osnovne škole upisao sam
                             opšti smer u Gimnaziji „ Svetozar Marković”. Nakon gimnazije upisujem Visoku tehničku školu strukovnih studija u Subotici smer informatika</p>
                             <a href="https://www.ivanmilutinovic.edu.rs/" class="btn">OŠ „Ivan Milutinović”</a>
@@ -41,7 +41,7 @@
 
                         </div>
                         <div class="image">
-                            <img src="img/micke.jpg" alt="Osnovna skola">
+                            <img src="img/skole.gif" alt="Osnovna skola">
                         </div>
 
                     </div>
@@ -52,8 +52,7 @@
                         <div class="content">
                             <span> Kontakt info</span>
                             <h3>Odgovaram u najbržem roku</h3>
-                            </h3>
-                            <h3>
+
                             <p>Instagram: @lukap1234<br>
                                 Mail: bobsagott17@gmail.com<br>
                                 Telefon: 0659767038</p>
@@ -61,7 +60,7 @@
                         </div>
 
                         <div class="image">
-                            <img src="img/vico.jpg" alt="">
+                            <img src="img/iq200.png" >
                         </div>
                     </div>
                 </div>

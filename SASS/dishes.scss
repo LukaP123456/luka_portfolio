@@ -1,4 +1,17 @@
 @import "varijable";
+table{
+  margin: 0 auto;
+  border: solid;
+  font-size: 2.5rem;
+  padding: 2rem;
+  width: auto;
+}
+.kolona{
+  border: solid !important;
+  text-transform: none;
+  padding: 2rem;
+
+}
 .sub-heading{
   text-align: center;
   color: $green;

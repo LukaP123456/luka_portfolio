@@ -9,7 +9,6 @@ section{
 .home .home-slider .slide{
   display: flex;
   align-items: center;
-  flex-wrap: wrap;
   gap: 2rem;
   padding-top: 9rem;
 
@@ -23,10 +22,12 @@ section{
 .home .home-slider .slide .image {
   flex: 1 1 45rem;
 
+
 }
 
 .home .home-slider .slide .image img{
   width: 100%;
+
 }
 
 .home .home-slider .slide .content span{

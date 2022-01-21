@@ -31,8 +31,8 @@
         <a class="active" href="main.php">home</a>
         <a href="dishes.php">Ocene</a>
         <a href="about.php">Linkovi</a>
-        <a href="menu.php">filmovi/serije</a>
-        <a href="review.php">review</a>
+        <a href="menu.php">filmovi</a>
+        <a href="menu-serije.php">serije</a>
     </nav>
 
     <div class="icons">

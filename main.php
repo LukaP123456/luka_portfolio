@@ -2,7 +2,7 @@
 include ("header.php");
 include ("home.php");
 //include ("dishes.php");
-include ("about.php");
+//include ("about.php");
 //include ("menu.php");
 //include ("review.php");
 //include "order.php";

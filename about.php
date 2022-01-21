@@ -1,41 +1,52 @@
+<?php include_once "header.php"?>
 <!-- about sekcija start-->
 <!-- linkovi-->
 <section class="about" id="about">
 
-    <h3 class="sub-heading"> about us </h3>
-    <h1 class="heading"> why choose us?</h1>
+    <h3 class="sub-heading"> Zanimljivi sajtovi</h3>
+    <h1 class="heading"> Linkovi i opisi sajtova </h1>
 
     <div class="row">
-        <div class="image">
-            <img src="img/ljubav.jpg" alt="">
+
+        <div class="content">
+            <h3>One zoom</h3>
+            <p>One zoom je veoma zanimljiv website koji prikazuje bogatu istoriju života na planeti zemlji. Veoma jednostavno možemo videti
+            sve podatke koje trenutno imamo o trenutnoj znanosti o razviću života na Zemlji</p>
+            <br><br><br><br><br><br>
+
+
+            <a href="https://www.onezoom.org/" class="btn">One zoom</a>
         </div>
 
         <div class="content">
-            <h3> best food in the country</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid architecto autem cum doloribus earum eligendi
-                xercitationem expedita ipsa ipsum, iure magni natus nesciunt obcaecati, placeat provident rerum, ullam vero voluptas!</p>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem cum esse et harum id minus molestias nemo nobis odio odit officia
-                omnis praesentium quasi repudiandae tempora, temporibus tenetur vitae voluptatibus.</p>
-            <div class="icons-container">
-                <div class="icons">
-                    <i class="fas fa-shipping-fast"></i>
-                    <span>free delivery</span>
-                </div>
-                <div class="icons">
-                    <i class="fas fa-dollar-sign"></i>
-                    <span>easy payments</span>
-                </div>
-                <div class="icons">
-                    <i class="fas fa-headset"></i>
-                    <span>24/7 service</span>
-                </div>
-            </div>
-            <a href="#" class="btn">learn more</a>
+            <h3>This person doesn't exist</h3>
+            <p>Jednostavan sajt koji generiše lice osobe koja zapravo ne postoji. Iako ima veoma malu funkcionalnost i izvršava samo jednu funkciju ovaj sajt mi je i dalje
+            zanimljiv jer je sama ideja neobična. Određeni algoritam generiše ljudsko lice koje zapravo ne postoji nego ga taj algoritam sam generiše i to veoma dobro jer lica izgledaju
+            veoma realistično. Čak na sajtu imaju link koji vodi do objašnjenja kako funkcioniše ovaj generator pa nam omogućava da i samo napravimo nešto slično.</p>
+
+
+            <a href="https://thispersondoesnotexist.com/" class="btn">This person doesn't exist</a>
+        </div>
+
+
+
+        <div class="content">
+            <h3>Youtube</h3>
+            <p>Najveća video hosting platforma. Svakodnevno se milijarde sati uploaduje na jutub što čini jutub jedan od najpopularnijih sajtova ove vrste. </p>
+            <br><br><br><br><br><br><br>
+
+            <a href="https://thispersondoesnotexist.com/" class="btn">This person doesn't exist</a>
         </div>
     </div>
+
+
+
+
 
 
 
 </section>
 
 <!-- about sekcija kraj-->
+
+<?php include_once "footer.php"?>

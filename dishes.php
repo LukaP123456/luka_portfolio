@@ -1,6 +1,6 @@
 <?php include_once "header.php";?>
 <!-- dishes sekcija pocetak -->
-
+<!-- ocene -->
 <section class="dishes" id="dishes">
 
     <h3 class="sub-heading">Ocene</h3>
@@ -101,7 +101,7 @@
                     <tr>
                         <td class="kolona">Treći</td>
                         <td class="kolona">Baze podataka</td>
-                        <td class="kolona"></td>
+                        <td class="kolona">10</td>
                         <td class="kolona">6</td>
                     </tr>
                     <tr>
@@ -113,7 +113,7 @@
                     <tr>
                         <td class="kolona">Treći</td>
                         <td class="kolona">Softversko inženjerstvo</td>
-                        <td class="kolona">8</td>
+                        <td class="kolona">10</td>
                         <td class="kolona">6</td>
                     </tr>
                     <tr>
@@ -156,8 +156,6 @@
 
 </section>
 
-
-
-
-
 <!-- dishes sekcija kraj -->
+
+<?php include_once "footer.php"?>

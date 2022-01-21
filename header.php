@@ -30,14 +30,14 @@
     <nav class="navbar">
         <a class="active" href="main.php">home</a>
         <a href="dishes.php">Ocene</a>
-        <a href="#about">about</a>
-        <a href="menu.php">menu</a>
-        <a href="#review">review</a>
+        <a href="about.php">Linkovi</a>
+        <a href="menu.php">filmovi/serije</a>
+        <a href="review.php">review</a>
     </nav>
 
     <div class="icons">
         <i class="fas fa-bars" id="menu-bars"></i>
-        <i class="fas fa-search" id="search-icon"></i>
+        <!--<i class="fas fa-search" id="search-icon"></i>-->
         <?php echo $date = date('Y-m-d H:i:s'); ?>
 
 

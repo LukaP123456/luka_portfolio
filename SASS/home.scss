@@ -2,6 +2,10 @@
 p{
   text-transform: none;
 }
+.no-transforms{
+  text-transform: none;
+}
+
 section{
   padding: 2rem 9%;
 }
@@ -21,13 +25,10 @@ section{
 
 .home .home-slider .slide .image {
   flex: 1 1 45rem;
-
-
 }
 
 .home .home-slider .slide .image img{
   width: 100%;
-
 }
 
 .home .home-slider .slide .content span{

@@ -23,10 +23,10 @@
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star-half-alt"></i>
                 </div>
-                <h3>delicious food</h3>
+                <h3>Rick and morty</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium, molestiae!</p>
-                <a href="#" class="btn">add to cart</a>
-                <span class="price">$12.99</span>
+                <a href="https://www.imdb.com/title/tt2861424/?ref_=fn_al_tt_1" class="btn">link do imdb strane</a>
+
             </div>
         </div>
 
@@ -35,7 +35,7 @@
 
         <div class="box">
             <div class="image">
-                <img src="img/django.jpg" alt="OPRASNO">
+                <img src="img/got.jpg" alt="OPRASNO">
                 <a href="#" class="fas fa-heart"></a>
             </div>
             <div class="content">
@@ -48,8 +48,8 @@
                 </div>
                 <h3>delicious food</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium, molestiae!</p>
-                <a href="#" class="btn">add to cart</a>
-                <span class="price">$12.99</span>
+                <a href="https://www.imdb.com/title/tt0944947/?ref_=fn_al_tt_1" class="btn">link do imdb strane</a>
+
             </div>
         </div>
 
@@ -58,7 +58,7 @@
 
         <div class="box">
             <div class="image">
-                <img src="img/django.jpg" alt="OPRASNO">
+                <img src="img/succession.jpg" alt="OPRASNO">
                 <a href="#" class="fas fa-heart"></a>
             </div>
             <div class="content">
@@ -69,10 +69,10 @@
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star-half-alt"></i>
                 </div>
-                <h3>delicious food</h3>
+                <h3>Succession</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium, molestiae!</p>
-                <a href="#" class="btn">add to cart</a>
-                <span class="price">$12.99</span>
+                <a href="https://www.imdb.com/title/tt7660850/" class="btn">link do imdb strane</a>
+
             </div>
         </div>
 
@@ -81,7 +81,7 @@
 
         <div class="box">
             <div class="image">
-                <img src="img/django.jpg" alt="OPRASNO">
+                <img src="img/detektiv.jpg" alt="OPRASNO">
                 <a href="#" class="fas fa-heart"></a>
             </div>
             <div class="content">
@@ -92,10 +92,10 @@
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star-half-alt"></i>
                 </div>
-                <h3>delicious food</h3>
+                <h3>True Detective</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium, molestiae!</p>
-                <a href="#" class="btn">add to cart</a>
-                <span class="price">$12.99</span>
+                <a href="https://www.imdb.com/title/tt2356777/" class="btn">link do imdb strane</a>
+
             </div>
         </div>
 
@@ -104,7 +104,7 @@
 
         <div class="box">
             <div class="image">
-                <img src="img/django.jpg" alt="OPRASNO">
+                <img src="img/sopranos.jpg" alt="OPRASNO">
                 <a href="#" class="fas fa-heart"></a>
             </div>
             <div class="content">
@@ -115,10 +115,10 @@
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star-half-alt"></i>
                 </div>
-                <h3>delicious food</h3>
+                <h3>The Sopranos</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium, molestiae!</p>
-                <a href="#" class="btn">add to cart</a>
-                <span class="price">$12.99</span>
+                <a href="https://www.imdb.com/title/tt0141842/" class="btn">link do imdb strane</a>
+
             </div>
         </div>
 
@@ -127,7 +127,7 @@
 
         <div class="box">
             <div class="image">
-                <img src="img/django.jpg" alt="OPRASNO">
+                <img src="img/bazo.jpg" alt="OPRASNO">
                 <a href="#" class="fas fa-heart"></a>
             </div>
             <div class="content">
@@ -138,10 +138,10 @@
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star-half-alt"></i>
                 </div>
-                <h3>delicious food</h3>
+                <h3>Breaking bad </h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium, molestiae!</p>
-                <a href="#" class="btn">add to cart</a>
-                <span class="price">$12.99</span>
+                <a href="https://www.imdb.com/title/tt0903747/" class="btn">link do imdb strane</a>
+
             </div>
         </div>
     </div>

@@ -5,8 +5,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="Luka Prcic">
-    <meta name="keywords" content="food delivery,pizza,burger,chicken,fast">
-    <meta name="description" content="Fast food delivery website">
+    <meta name="keywords" content="portfolio">
+    <meta name="description" content="portfolio website for Luka Prćić">
 
 
     <title>Luka Prćić portfolio website</title>
@@ -39,7 +39,6 @@
         <i class="fas fa-bars" id="menu-bars"></i>
         <!--<i class="fas fa-search" id="search-icon"></i>-->
         <?php echo $date = date('Y-m-d H:i:s'); ?>
-
 
     </div>
 </header>

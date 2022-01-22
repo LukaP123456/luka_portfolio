@@ -73,7 +73,7 @@
     <div class="home" id="home">
         <br><h1 class="no-transforms">Neki od programskih jezika koje znam</h1>
         <br><h2>Python</h2>
-        <h2>C++</h2>
+        <h2>C</h2>
         <h2>C#</h2>
         <h2 class="no-transforms">Html,Css,php,JavaScript(veoma veoma malo)</h2>
     </div>

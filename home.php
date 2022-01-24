@@ -79,7 +79,7 @@
     </div>
     <hr>
     <div class="home" id="home">
-        <br><h1 class="no-transforms">IRL jezici</h1>
+        <br><h1 class="no-transforms">Jezici</h1>
 
         <br><h2>Engleski</h2>
         <h2 class="no-transforms" >Jako malo nemačkog</h2>
